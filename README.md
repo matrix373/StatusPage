@@ -1,5 +1,8 @@
 # boilerplate
 Basic HTML and CSS setup for simple web design
+
+FIGMA DESIGN IS IN IMAGES FOLDER NAMED FIGMADESIGN
+
 Image Sources:
 https://en.wikipedia.org/wiki/James_Webb_Space_Telescope
 https://en.wikipedia.org/wiki/Lucy_%28spacecraft%29
